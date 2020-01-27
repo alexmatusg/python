@@ -1,0 +1,224 @@
+#contenedor{
+    width: 970px;
+    background-color: rgb(38, 81, 117);
+}
+
+.titulo{
+    width: 100%;
+    background-color: rgb(38, 81, 117);
+
+}
+.imgTitulo{
+    width: 33%;
+    display: inline-block;
+}
+.foto1{
+    height: 80px;
+    width: 300px;
+    margin-left: 22px;
+    margin-top: 22px;
+
+}
+.intermedio{
+    width: 33%;
+    display: inline-block;
+}
+
+.search{
+    width: 33%;
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+}
+.search .texS{
+    margin-left: 83px;
+    margin-right: 10px;
+    margin-bottom: 3px;
+}
+.search .borde{
+    background-color: rgb(68, 68, 68);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 90px;
+    margin-right: 10px;
+    border-radius: 12px;
+
+}
+
+.search .search1{
+    height: 25px;
+    width: 120px;
+}
+
+.search .search2{
+    height: 31px;
+    width: 37px;
+    background-color: rgb(38, 81, 117);
+    color: white;
+    border-radius: 5px;
+}
+p{
+    color: white;
+}
+.search a{
+    color: yellow;
+}
+
+.barraB{
+    background-color: rgb(69, 125, 171);
+    height: 40px;
+    width: 88%;
+    text-align: center;
+    margin-left: 7%;
+    border-radius: 5px;
+}
+
+ul.TamB{
+    width: 100%;
+    margin-left: -46px;
+}
+
+.barraB li{
+    display: inline;
+    margin: 21px;
+    font-size: 24px;
+    color: white;
+}
+
+.centro1{
+    width: 100%;
+
+}
+.ListaLat{
+    display: inline-block;
+    width: 30%;
+    font-size: 17px;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+.ListaLat li{
+    list-style: none;
+    text-align: center;
+    color: white;
+    margin-bottom: 8px;
+    
+}
+
+ li a{
+    color: white;
+}
+
+.texto{
+    width: 60%;
+    vertical-align: top;
+    text-align: center;
+    display: inline-block;
+}
+
+.texto .poema{
+    margin-left: 143px;
+    margin-right: 142px;
+    font-size: 20px;
+    color: yellow;
+    font-style: oblique;
+}
+
+
+
+
+.centro2{
+    background-color: white;
+    width: 100%;
+
+}
+
+.part1{
+    display: inline-block;
+    width: 55%;
+}
+
+.part1 .linea1{
+    background-color: rgb(80, 108, 131);
+    width: 75%;
+    height: 5px;
+    margin-left: 95px;
+    margin-top: 8px;
+
+}
+
+.part1 .texto1{
+    text-align: center;
+    margin-left: 108px;
+    margin-right: 135px;
+
+}
+
+.texto1 p{
+    
+    color: black;
+    margin-top: -14px;
+}
+
+.texto1 li{
+    text-align: center;
+    color: rgb(80, 108, 131);
+}
+
+.part2{
+    display: inline-block;
+    width: 40%;
+}
+
+.part2 .linea2{
+    background-color: rgb(80, 108, 131);
+    width: 100%;
+    height: 5px;
+    margin-bottom: 23px;
+}
+
+.part2 .texto2{
+    text-align: center;
+    margin-top: -14px;
+
+
+}
+
+.texto2 h3{
+    margin-top: -19px;
+}
+
+.texto2 p{
+    color: black;
+    margin-left: 25px;
+    margin-right: 31px;
+}
+
+.texto2 li{
+    text-align: center;
+    color: rgb(80, 108, 131);
+}
+
+
+.final{
+    width: 100%;
+    background-color: rgb(38, 81, 117);
+}
+
+.ListaF{
+    width: 95%;
+    margin-left: 15%;
+    margin-top: 40px;
+}
+
+.ListaF li{
+    display: inline;
+    margin-right: 70px;
+    color: rgb(69, 125, 171);
+}
+
+.ListaF p{
+    font-size: 10px;
+    color: rgb(69, 125, 171);
+    margin-left: 233px;
+}
